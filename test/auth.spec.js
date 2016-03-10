@@ -44,7 +44,7 @@ describe('auth', function() {
       };
 
       auth.isAuthenticated.call(host).catch(function () {
-        expect(host._hasClientSideRedirect.calledOnce).toBe(true);
+        expect(host._hasClientSideRedirect.calledOnce).toBe(false);
 
         done();
       });
