@@ -28,15 +28,15 @@
   "homepage": "https://github.com/theflow/theflow-js",
   "devDependencies": {
     "coveralls": "2.11.6",
-    "istanbul": "0.4.2",
+    "istanbul": "0.4.0",
     "jasmine-node": "1.14.5",
-    "sinon": "1.17.3"
+    "sinon": "1.17.2"
   },
   "dependencies": {
     "faye": "^1.1.1",
     "URIjs": "1.16.1",
-    "es6-promise": "3.1.2",
+    "es6-promise": "3.0.2",
     "lodash": "3.10.1",
-    "superagent": "1.7.2"
+    "superagent": "1.5.0"
   }
 }
