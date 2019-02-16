@@ -35,7 +35,7 @@
   "dependencies": {
     "faye": "^1.1.1",
     "URIjs": "1.16.1",
-    "es6-promise": "4.1.1",
+    "es6-promise": "4.2.6",
     "lodash": "4.17.4",
     "superagent": "3.5.2",
     "fs-extra": "^3.0.1"
